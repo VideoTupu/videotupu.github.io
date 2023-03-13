@@ -13,8 +13,7 @@ bu depo videoların web üzerinden nasıl çekildiğini gösteriyor
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uygulama Ekran Görüntüsü](https://github.com/VideoTupu/VideoTupu-Web/blob/main/Github%20Dosyalar%C4%B1/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC-1.png)
 
 
 ## Kullananlar
@@ -30,9 +29,6 @@ Bu proje aşağıdaki kişiler ve şirketler tarafından kullanılmaktadır:
 
 Ne zaman hazır olursa :D
 
-#### Yardım Edebilirmiyim?
-
-Ne demek?!
 
 ## Bilgisayarınızda Çalıştırın
 
