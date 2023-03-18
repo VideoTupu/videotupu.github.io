@@ -162,8 +162,8 @@
   flex-direction: column;
 }
 
-.video-title {
-  font-size: 1.1rem;
+.ana-sayfa-video-başlığı {
+  font-size: 0.9rem;
   font-weight: bold;
   margin-bottom: .5rem;
   text-decoration: none;
@@ -215,7 +215,7 @@
 
 
 
-.video-başılğı {
+.video-başlığı {
   font-family: 'Barlow', sans-serif;
   font-size: x-large;
   display: flex;
