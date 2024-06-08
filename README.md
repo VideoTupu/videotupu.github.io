@@ -32,23 +32,9 @@ Ne zaman hazır olursa :D
 
 ## Bilgisayarınızda Çalıştırın
 
-Projeyi klonlayın
+Tarayıcıdan bu  linki açın 
 
 ```bash
-  git clone https://github.com/VideoTupu/VideoTupu-Web
+  git clone https://videotupu.github.io/ev.html
 ```
-
-Proje dizinine gidin
-
-```bash
-  cd VideoTupu-Web
-```
-
-Gerekli paketleri yükleyin
-
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
-canlı çalıştırın
-
-sağ tık "open live server"
 
